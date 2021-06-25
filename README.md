@@ -2,5 +2,5 @@
 
 A Simple flutter splash screen.
 
-https://user-images.githubusercontent.com/30585556/123456003-f8a6f480-d5ff-11eb-9bfa-7b323e2564a2.mov
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/30585556/123456508-8be02a00-d600-11eb-98ae-40fcb7976adf.gif)
 
